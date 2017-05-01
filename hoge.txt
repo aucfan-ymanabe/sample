@@ -9,9 +9,13 @@ ajaeg
 ja
 dddddeg
 bbbbbbb
+
+ddddddd is added
+=======
 eg
 eg
 
 hogehoge
 hogehoge
 hogehogegehoge
+
